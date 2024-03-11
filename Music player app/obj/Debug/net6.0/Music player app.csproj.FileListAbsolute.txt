@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\Music player app.exe
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\Music player app.deps.json
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\Music player app.runtimeconfig.json
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\Music player app.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\Music player app.pdb
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music pl.4AC55ED4.Up2Date
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\refint\Music player app.dll
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.pdb
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\Music player app.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-sharp\pratice\Music player app\Music player app\obj\Debug\net6.0\ref\Music player app.dll
